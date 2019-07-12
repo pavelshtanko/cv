@@ -62,14 +62,12 @@ Did:
 - Developed fraud activity control system. Detecting of fraudulent activity
 
 <br />
-<br />
 
 - Code quality control
 - Code reviews
 - Training of the team members
 - Managment of development process in specific domains of the application
 
-<br />
 <br />
 
 - Backend development using ASP.NET MVC\WebApi
