@@ -19,7 +19,7 @@ gcp, aws, sql, nosql, ci, cd, vim, vscode, c#, .net
 A job in highly motivated technical team which solves real world 
 problems as well as the place to share knowledge together with an opportunity to 
 learn as much as possible. Prefer the place where the development process allows 
-you to get the feedback as fast as possible.
+you to get the feedback right away.
 
 
 ## Experience 
