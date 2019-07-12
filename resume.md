@@ -24,7 +24,7 @@ you to get the feedback as fast as possible.
 
 ## Experience 
 
-### Reply Inc. (Wordwide) - team and technical leader (2017 - ...)
+### Reply Inc ([reply.io](https://reply.io)) (wordwide) - team and technical leader (2017 - ...)
 Sales automation tools distributed as SaaS. Early-stage multifunctional developer. 
 Went from no profit to profitable business together with the company.
 
