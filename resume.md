@@ -21,12 +21,11 @@ problems as well as the place to share knowledge together with an opportunity to
 learn as much as possible. Prefer the place where the development process allows 
 you to get the feedback as fast as possible.
 
----
 
 ## Experience 
 
 ### Reply Inc. (Wordwide) - team and technical leader (2017 - ...)
-Sales automation tools distributed as SaaS. Early stage multifunctional developer. 
+Sales automation tools distributed as SaaS. Early-stage multifunctional developer. 
 Went from no profit to profitable business together with the company.
 
 Involved in all product parts and processes
@@ -54,21 +53,25 @@ Tools:                   Grafana, Azure application insights, Grafana loki <br/>
 Building back office application for gambling portal’s management, including players, 
 bonuses and fraud activity control.
 
-Things done
+Did:
 - Take a part in the architecture design of the application
 - Built event’s messaging system (integrated RabbitMQ)
 - Designed multi-wallet system
 - Withdrawal workflow
 - Online and offline deposit workflow (3d party payment tools)
 - Developed fraud activity control system. Detecting of fraudulent activity
+
 <br />
 <br />
+
 - Code quality control
 - Code reviews
 - Training of the team members
 - Managment of development process in specific domains of the application
+
 <br />
 <br />
+
 - Backend development using ASP.NET MVC\WebApi
 - OAuth token based authentication\authorization 
 - Frotend development using Angular 2, Durandal, KnockoutJS
@@ -83,7 +86,7 @@ Things done
 Developing of budget2pay management cloud solution that include a lot of components 
 for building custom business workflows and manage them.
 
-Things done
+Did:
 - Developed new modules to provide new functionality and integration of them into existing system 
 - Responsible for license control\verification server, and its infrastructure 
 - Developed web site that allows to setup customer’s environments 
@@ -92,17 +95,24 @@ Things done
 
 ---
 
-### Aquasoft (Ukraine), Unicorn (Ukraine) — team leader, developer (2010-2012)  
+### Aquasoft (Ukraine), Unicorn (Ukraine) — team leader, developer (2010-2012)
 Developing ERP-related applications for Versata\Trilogy group (Texas, USA). 
 
-Things done
+Did:
 - Rolled out an application for sale’s chain simulation for shop’s networks
 - Developed application for modelling computer networks for customer’s departments
 - Developed and integrated wpf control for displaying schemas
 
 Developed several web sites mainly for news and entertainment. 
 
-Things done:
+Did:
 - Designed and developed a web scraper to collect specific news
 - Developed and rolled out news network
 - Created web site for votes
+
+
+## Education
+
+National Mining University - 2006-2011 <br/>
+Intelligent decision support systems (Computer Science) - Master of Science
+
