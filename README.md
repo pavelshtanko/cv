@@ -2,7 +2,7 @@
 [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
 [+31655536082](tel:31655536082)
 
-# Shtanko Pavel - Software developer
+# Shtanko Pavel - software developer
 
 - 9+ years hands on development experience
 - Serial team and tech leader for the teams of size 3-9 people
@@ -24,7 +24,7 @@ you to get the feedback right away.
 
 ## Experience 
 
-### Reply -[reply.io](https://reply.io)- (wordwide) - team and technical leader (2017 - ...)
+### Reply (wordwide) - team and technical leader (2017 - ...) [reply.io](https://reply.io)
 Sales automation tools distributed as SaaS. Early-stage multifunctional developer. 
 Went from no profit to profitable business together with the company.
 
@@ -39,7 +39,9 @@ Involved in all product parts and processes
  - Team management
  - Lovely CI\CD process
 
-Technical details <br/>
+Technical details 
+<br/>
+
 Languages:               Golang, C# <br/>
 Cloud providers:         Azure, AWS <br/>
 Stores:                  PostgreSQL, DynamoDB, Table Storage, MS SQL, Azure SQL <br/>
@@ -100,8 +102,7 @@ Did:
 - Rolled out an application for sale’s chain simulation for shop’s networks
 - Developed application for modelling computer networks for customer’s departments
 - Developed and integrated wpf control for displaying schemas
-
-Developed several web sites mainly for news and entertainment. 
+- Developed several web sites mainly for news and entertainment. 
 
 Did:
 - Designed and developed a web scraper to collect specific news
