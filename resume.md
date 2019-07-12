@@ -1,6 +1,6 @@
 > [shtanko.me](https://shtanko.me) | 
 [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
-[31655536082](tel:31655536082)
+[+31655536082](tel:31655536082)
 
 # Shtanko Pavel - Software developer
 
