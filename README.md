@@ -5,7 +5,7 @@
 # Shtanko Pavel - software developer
 - 9+ years hands-on development experience
 - Serial team and tech leader for the teams of size 3-9 people
-- Indie product developer (latest one [goandcall](https://goandcall.me))
+- Indie product developer (latest one [goandcall.me](https://goandcall.me))
 - Passionate software developer 
 
 ## Technical interests
