@@ -3,20 +3,17 @@
 [+31655536082](tel:31655536082)
 
 # Shtanko Pavel - software developer
-
-- 9+ years hands on development experience
+- 9+ years hands-on development experience
 - Serial team and tech leader for the teams of size 3-9 people
 - Indie product developer (latest one [goandcall](https://goandcall.me))
 - Passionate software developer 
 
 ## Technical interests
-
 golang, docker, container orchestration, kubernetes, helm, azure, 
 gcp, aws, sql, nosql, ci, cd, vim, vscode, c#, .net
 
 ## Looking for 
-
-A job in highly motivated technical team which solves real world 
+A job in a highly motivated technical team which solves real-world 
 problems as well as the place to share knowledge together with an opportunity to 
 learn as much as possible. Prefer the place where the development process allows 
 you to get the feedback right away.
@@ -24,7 +21,7 @@ you to get the feedback right away.
 
 ## Experience 
 
-### Reply (wordwide) - team and technical leader (2017 - ...) [reply.io](https://reply.io)
+### Reply (worldwide) - team and technical leader (2017 - ...) [reply.io](https://reply.io)
 Sales automation tools distributed as SaaS. Early-stage multifunctional developer. 
 Went from no profit to profitable business together with the company.
 
@@ -51,8 +48,8 @@ Tools:                   Grafana, Azure application insights, Grafana loki <br/>
 
 --- 
 
-### Flycow (Canada\Singapore) - teamleader (2014 - 2017)
-Building back office application for gambling portal’s management, including players, 
+### Flycow (Canada\Singapore) - team leader (2014 - 2017)
+Building back-office application for gambling portal’s management, including players, 
 bonuses and fraud activity control.
 
 Did:
@@ -63,19 +60,17 @@ Did:
 - Online and offline deposit workflow (3d party payment tools)
 - Developed fraud activity control system. Detecting of fraudulent activity
 
-<br />
 
 - Code quality control
 - Code reviews
 - Training of the team members
-- Managment of development process in specific domains of the application
+- Management of the development process in specific domains of the application
 
-<br />
 
 - Backend development using ASP.NET MVC\WebApi
-- OAuth token based authentication\authorization 
-- Frotend development using Angular 2, Durandal, KnockoutJS
-- Responsible for the fraud and payment domains in our applicaiton
+- OAuth token-based authentication\authorization 
+- Frontend development using Angular 2, Durandal, KnockoutJS
+- Responsible for the fraud and payment domains in our application
 - BDD tests with SpecFlow
 - Integration and automation tests 
 - CI\CD process with Teamcity, MSDeploy and FAKE (F# scripting)
@@ -83,13 +78,13 @@ Did:
 ---
 
 ### 20\20 Vision (Netherlands) - software developer (2012 - 2014)
-Developing of budget2pay management cloud solution that include a lot of components 
+Developing of budget2pay management cloud solution that includes a lot of components 
 for building custom business workflows and manage them.
 
 Did:
-- Developed new modules to provide new functionality and integration of them into existing system 
+- Developed new modules to provide new functionality and integration of them into the existing system 
 - Responsible for license control\verification server, and its infrastructure 
-- Developed web site that allows to setup customer’s environments 
+- Developed web site that allows to set up customer’s environments 
 - Developed back-office portal to manage customer’s environments 
 - Integrated OCR system into the application
 
@@ -100,7 +95,7 @@ Developing ERP-related applications for Versata\Trilogy group (Texas, USA).
 
 Did:
 - Rolled out an application for sale’s chain simulation for shop’s networks
-- Developed application for modelling computer networks for customer’s departments
+- Developed application for modeling computer networks for customer’s departments
 - Developed and integrated wpf control for displaying schemas
 - Developed several web sites mainly for news and entertainment. 
 
@@ -111,7 +106,6 @@ Did:
 
 
 ## Education
-
-National Mining University - 2006-2011 <br/>
+National Mining University(2006 - 2011)
 Intelligent decision support systems (Computer Science) - Master of Science
 
