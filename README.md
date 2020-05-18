@@ -18,10 +18,30 @@ problems as well as the place to share knowledge together with an opportunity to
 learn as much as possible. Prefer the place where the development process allows 
 you to get the feedback right away.
 
-
 ## Experience 
 
-### Reply (worldwide) - team and technical leader (2017 - ...) [reply.io](https://reply.io)
+### Beat (Amsterdam) - software engineer (2019 - ...) [beat](https://thebeat.co)
+Ride-hailing application. The most fastest growing app in Latin America. Part of FreeNow 
+group. 
+
+Fraud, security and safety domain. 
+
+Duties: 
+ - Developing the data pipeline for all incoming "signals"
+ - Data processing and aggregation
+ - Microservice architecture design
+ - Building and designing of the fraud prevention rules
+ - Implementation and designing of the connection between big data and microservices
+
+Technical details <br/>
+Language: 		Golang <br/>
+Cloud: 			AWS <br/>
+Data stores: 		MySQL, Aerospike, LevelDB <br/>
+Streaming: 		Kafka
+CI/CD: 			Jenkins, Github Actions, Helm <br/>
+Tools: 			Grafana, Prometheus <br/>
+
+### Reply (worldwide) - team and technical leader (2017 - 2019) [reply.io](https://reply.io)
 Sales automation tools distributed as SaaS. Early-stage multifunctional developer. 
 Went from no profit to profitable business together with the company.
 
@@ -34,7 +54,7 @@ Involved in all product parts and processes
  - Monitoring and logs 
  - Developers interviews 
  - Team management
- - Lovely CI\CD process
+ - Lovely CI/CD process
 
 Technical details 
 <br/>
@@ -43,12 +63,12 @@ Languages:               Golang, C# <br/>
 Cloud providers:         Azure, AWS <br/>
 Stores:                  PostgreSQL, DynamoDB, Table Storage, MS SQL, Azure SQL <br/>
 Container orchestration: k8s + helm <br/>
-CI\CD:                   Teamcity, Jenkins within k8s, Octopus deploy <br/>
+CI/CD:                   Teamcity, Jenkins within k8s, Octopus deploy <br/>
 Tools:                   Grafana, Azure application insights, Grafana loki <br/>
 
 --- 
 
-### Flycow (Canada\Singapore) - team leader (2014 - 2017)
+### Flycow (Canada/Singapore) - team leader (2014 - 2017)
 Building back-office application for gambling portal’s management, including players, 
 bonuses and fraud activity control.
 
@@ -67,23 +87,23 @@ Did:
 - Management of the development process in specific domains of the application
 
 
-- Backend development using ASP.NET MVC\WebApi
-- OAuth token-based authentication\authorization 
+- Backend development using ASP.NET MVC/WebApi
+- OAuth token-based authentication/authorization 
 - Frontend development using Angular 2, Durandal, KnockoutJS
 - Responsible for the fraud and payment domains in our application
 - BDD tests with SpecFlow
 - Integration and automation tests 
-- CI\CD process with Teamcity, MSDeploy and FAKE (F# scripting)
+- CI/CD process with Teamcity, MSDeploy and FAKE (F# scripting)
 
 ---
 
-### 20\20 Vision (Netherlands) - software developer (2012 - 2014)
+### 20/20 Vision (Netherlands) - software developer (2012 - 2014)
 Developing of budget2pay management cloud solution that includes a lot of components 
 for building custom business workflows and manage them.
 
 Did:
 - Developed new modules to provide new functionality and integration of them into the existing system 
-- Responsible for license control\verification server, and its infrastructure 
+- Responsible for license control/verification server, and its infrastructure 
 - Developed web site that allows to set up customer’s environments 
 - Developed back-office portal to manage customer’s environments 
 - Integrated OCR system into the application
@@ -91,7 +111,7 @@ Did:
 ---
 
 ### Aquasoft (Ukraine), Unicorn (Ukraine) — team leader, developer (2010-2012)
-Developing ERP-related applications for Versata\Trilogy group (Texas, USA). 
+Developing ERP-related applications for Versata/Trilogy group (Texas, USA). 
 
 Did:
 - Rolled out an application for sale’s chain simulation for shop’s networks
