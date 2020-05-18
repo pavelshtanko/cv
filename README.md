@@ -5,12 +5,8 @@
 # Shtanko Pavel - software developer
 - 9+ years hands-on development experience
 - Serial team and tech leader for the teams of size 3-9 people
-- Indie product developer (latest one [goandcall.me](https://goandcall.me))
+- Indie product developer ([goandcall.me](https://goandcall.me) & [clickradar.io](https://clickradar.io))
 - Passionate software developer 
-
-## Technical interests
-golang, docker, container orchestration, kubernetes, helm, azure, 
-gcp, aws, sql, nosql, ci, cd, vim, vscode, c#, .net
 
 ## Looking for 
 A job in a highly motivated technical team which solves real-world 
@@ -21,50 +17,50 @@ you to get the feedback right away.
 ## Experience 
 
 ### Beat (Amsterdam) - software engineer (2019 - ...) [beat](https://thebeat.co)
-Ride-hailing application. The most fastest growing app in Latin America. Part of FreeNow 
+Ride-hailing application. The fastest growing app in Latin America. Part of FreeNow 
 group. 
 
-Fraud, security and safety domain. 
+Fraud, security, and safety.
 
-Duties: 
- - Developing the data pipeline for all incoming "signals"
- - Data processing and aggregation
- - Microservice architecture design
- - Building and designing of the fraud prevention rules
- - Implementation and designing of the connection between big data and microservices
+Did: 
+- Data pipeline for all incoming "signals"
+- Data processing and aggregation
+- Involved in microservices architecture design
+- Build and design of the fraud prevention rules
+- Implementation and design of the connection between big data and microservices
 
-Technical details <br/>
-Language: 		Golang <br/>
-Cloud: 			AWS <br/>
-Data stores: 		MySQL, Aerospike, LevelDB <br/>
-Streaming: 		Kafka
-CI/CD: 			Jenkins, Github Actions, Helm <br/>
-Tools: 			Grafana, Prometheus <br/>
+Technical details 
+
+- Language: Golang 
+- Cloud: AWS 
+- Data stores: MySQL, Aerospike, LevelDB
+- Streaming: Kafka
+- CI/CD: Jenkins, Github Actions, Helm 
+- Tools: Grafana, Prometheus
 
 ### Reply (worldwide) - team and technical leader (2017 - 2019) [reply.io](https://reply.io)
 Sales automation tools distributed as SaaS. Early-stage multifunctional developer. 
 Went from no profit to profitable business together with the company.
 
 Involved in all product parts and processes
- - Common architecture
- - Features design
- - Set up of development process
- - Payment system
- - Data handling (40k+ users, more then 100kk records in different domains)
- - Monitoring and logs 
- - Developers interviews 
- - Team management
- - Lovely CI/CD process
+- Common architecture
+- Features design
+- Set up of development process
+- Payment system
+- Data handling (40k+ users, more then 100kk records in different domains)
+- Monitoring and logs 
+- Developers interviews 
+- Team management
+- Lovely CI/CD process
 
 Technical details 
-<br/>
 
-Languages:               Golang, C# <br/>
-Cloud providers:         Azure, AWS <br/>
-Stores:                  PostgreSQL, DynamoDB, Table Storage, MS SQL, Azure SQL <br/>
-Container orchestration: k8s + helm <br/>
-CI/CD:                   Teamcity, Jenkins within k8s, Octopus deploy <br/>
-Tools:                   Grafana, Azure application insights, Grafana loki <br/>
+- Languages: Golang, C# 
+- Cloud providers: Azure, AWS 
+- Stores: PostgreSQL, DynamoDB, Table Storage, MS SQL, Azure SQL 
+- Container orchestration: k8s + helm 
+- CI/CD: Teamcity, Jenkins within k8s, Octopus deploy 
+- Tools: Grafana, Azure application insights, Grafana loki 
 
 --- 
 
@@ -80,12 +76,10 @@ Did:
 - Online and offline deposit workflow (3d party payment tools)
 - Developed fraud activity control system. Detecting of fraudulent activity
 
-
 - Code quality control
 - Code reviews
 - Training of the team members
 - Management of the development process in specific domains of the application
-
 
 - Backend development using ASP.NET MVC/WebApi
 - OAuth token-based authentication/authorization 
@@ -126,6 +120,5 @@ Did:
 
 
 ## Education
-National Mining University(2006 - 2011)
+National Mining University of Ukraine (2006 - 2011)
 Intelligent decision support systems (Computer Science) - Master of Science
-
