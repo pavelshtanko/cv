@@ -1,11 +1,11 @@
 > [shtanko.me](https://shtanko.me) | 
 [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
-[+31655536082](tel:31655536082)
+[+31655536082](tel:+31655536082)
 
 # Shtanko Pavel - software developer
 - 9+ years hands-on development experience
 - Serial team and tech leader for the teams of size 3-9 people
-- Indie product developer ([goandcall.me](https://goandcall.me) & [clickradar.io](https://clickradar.io))
+- Indie product developer
 - Passionate software developer 
 
 ## Looking for 
@@ -26,8 +26,8 @@ Did:
 - Data pipeline for all incoming "signals"
 - Data processing and aggregation
 - Involved in microservices architecture design
-- Build and design of the fraud prevention rules
-- Implementation and design of the connection between big data and microservices
+- Building and designing of the fraud prevention rules
+- Implementation and designing of the connections between big data and microservices
 
 Technical details 
 
