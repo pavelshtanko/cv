@@ -1,6 +1,5 @@
 > [shtanko.me](https://shtanko.me) | 
 [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
-[+31655536082](tel:+31655536082)
 
 # Shtanko Pavel - software developer
 - 9+ years hands-on development experience
@@ -16,7 +15,7 @@ you to get the feedback right away.
 
 ## Experience 
 
-### Beat (Amsterdam) - software engineer (2019 - ...) [beat](https://thebeat.co)
+### Beat - software engineer (2019 - ...) [beat](https://thebeat.co)
 Ride-hailing application. The fastest growing app in Latin America. Part of FreeNow 
 group. 
 
