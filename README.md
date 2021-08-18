@@ -2,16 +2,10 @@
 [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
 
 # Shtanko Pavel - software developer
-- 9+ years hands-on development experience
+- 10+ years hands-on development experience
 - Serial team and tech leader for the teams of size 3-9 people
 - Indie product developer
 - Passionate software developer 
-
-## Looking for 
-A job in a highly motivated technical team which solves real-world 
-problems as well as the place to share knowledge together with an opportunity to 
-learn as much as possible. Prefer the place where the development process allows 
-you to get the feedback right away.
 
 ## Experience 
 
@@ -19,14 +13,16 @@ you to get the feedback right away.
 Ride-hailing application. The fastest growing app in Latin America. Part of FreeNow 
 group. 
 
-Fraud, security, and safety.
+Fraud, security and safety.
 
 Did: 
 - Data pipeline for all incoming "signals"
 - Data processing and aggregation
-- Involved in microservices architecture design
+- Microservices architecture design
 - Building and designing of the fraud prevention rules
-- Implementation and designing of the connections between big data and microservices
+- Handling of the data inside the big data stack in order to react fast on new fraudulent cases
+- Heavily involved in hiring process
+- Strangling of the legacy code
 
 Technical details 
 
