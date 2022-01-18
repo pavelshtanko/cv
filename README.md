@@ -1,7 +1,6 @@
-> [shtanko.me](https://shtanko.me) | 
-[pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
+> [shtanko.me](https://shtanko.me) | [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
 
-# Shtanko Pavel - software developer
+# Shtanko Pavel - Software engineer \ Engineering manager
 - 10+ years hands-on development experience
 - Serial team and tech leader for the teams of size 3-9 people
 - Indie product developer
