@@ -9,11 +9,11 @@
 
 ## Experience 
 
-### Beat - software engineer (2019 - ...) [beat](https://thebeat.co)
+### Beat - software engineer (2019 - 2021). Engineering manager for safety team (2021 - ...) [beat](https://thebeat.co)
 Ride-hailing application. The fastest growing app in Latin America. Part of FreeNow 
 group. 
 
-Fraud, security and safety.
+Fraud, safety and identity.
 
 Did: 
 - Data pipeline for all incoming "signals"
