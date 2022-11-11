@@ -30,7 +30,7 @@ I've done it using this:
 
 Golang, k8s, docker, AWS, MySQL, DynamoDB, aerospike, Kafka, 
 gRPC, and many more. Packed in a beautiful and shiny set of µServices. All of it 
-came with nice instrumenting to make sure everything works as expected.
+came with nice tooling to make sure everything works as expected.
 
 ### Reply (worldwide) - team and technical leader (2017 - 2019) [reply.io](https://reply.io)
 Sales automation tool (SaaS). Early-stage multifunctional developer (one of the founding developers). 
