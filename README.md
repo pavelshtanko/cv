@@ -1,4 +1,4 @@
->[shtanko.me](https://shtanko.me) | [me@shtanko.me](mailto:me@shtanko.me) |
+>[shtanko.me](https://shtanko.me) | [me@shtanko.me](mailto:me@shtanko.me) | +31655536082 | Amsterdam
 
 # Shtanko Pavel - Software engineer \ Engineering manager
 - 10+ years hands-on engineering experience
