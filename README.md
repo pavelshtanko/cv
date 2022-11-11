@@ -1,4 +1,4 @@
-> [shtanko.me](https://shtanko.me) | [pavel.shtanko@gmail.com](mailto:pavel.shtanko@gmail.com) |
+> [shtanko.me](https://shtanko.me) | [me@shtanko.me](mailto:me@shtanko.me) |
 
 # Shtanko Pavel - Software engineer \ Engineering manager
 - 10+ years hands-on development experience
@@ -8,8 +8,8 @@
 
 ## Experience 
 
-### Beat - software engineer (2019 - 2021). Engineering manager for safety team (2021 - ...) [beat](https://thebeat.co)
-Ride-hailing application. The fastest growing app in Latin America. Part of FreeNow 
+### Beat - software engineer (2019 - 2021). Engineering Manager @ Fraud Safety and Identity (2021 - ...) [BEAT](https://thebeat.co)
+Ride-hailing application. Part of FreeNow 
 group. 
 
 Fraud, safety and identity.
