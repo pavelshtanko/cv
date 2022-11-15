@@ -1,6 +1,6 @@
->[shtanko.me](https://shtanko.me) | [me@shtanko.me](mailto:me@shtanko.me) | +31655536082 | Amsterdam
+> [shtanko.me](https://shtanko.me) | [me@shtanko.me](mailto:me@shtanko.me) | Amsterdam
 
-# Shtanko Pavel - Software engineer \ Engineering manager
+##  Shtanko Pavel - Engineering Manager \ Software Engineer 
 - 10+ years hands-on engineering experience
 - Serial team and tech leader for the teams of size 3-9 people
 - Indie product developer
@@ -14,6 +14,16 @@ Ride-hailing application. Part of the FreeNow group. Fraud, safety, and identity
 As a software engineer and engineering manager in the Safety team, 
 my main responsibility was to make sure that no one gonna be harmed given that 
 we operate in very violent conditions.
+
+Achievements:
+- Managed to retain the engineering team in very turbulent environment
+- 70% incident rate decrease in Argentina
+- 15% safety perception increase in AR
+- Closed the feedback loop with customers, and decreased user complaints by 33%
+- The increased average amount of additional detections per robbery by 49%
+- The number of robberies committed by a network of robbers decreased by 19%
+- Average robberies per week decreased by 27.8%
+- The average incident-related drivers churn decreased by 19%
 
 My day-to-day duties: 
 - Research, design, and implement instruments for incident prevention via rules management, data analysis, and KYC procedures 
