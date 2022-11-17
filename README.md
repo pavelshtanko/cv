@@ -8,15 +8,20 @@
 
 ## Experience 
 
-### Beat - Sr. Software Engineer -> Engineering Manager @ Fraud Safety and Identity (2019 - ...) [BEAT](https://thebeat.co)
+### (2019 - ...) Beat - Sr. Software Engineer -> Engineering Manager @ Fraud Safety and Identity [BEAT](https://thebeat.co)
 Ride-hailing application. Part of the FreeNow group. Fraud, safety, and identity.
 
 As a software engineer and engineering manager in the Safety team, 
 my main responsibility was to make sure that no one gonna be harmed given that 
-we operate in very violent conditions.
+we operate in very violent conditions. 
+
+Some words describing tech and duties: 
+
+µServices, distributed systems, async\sync communication, golang, k8s, kafka, MySQL, DynamoDB, Aerospike, 
+gRPC, protobuf, grafana, prometheus, loki, jira, engineering leadership, hiring manager, mentorship
 
 Achievements:
-- Managed to retain the engineering team in very turbulent environment
+- Managed to retain the engineering team during very turbulent times
 - 70% incident rate decrease in Argentina
 - 15% safety perception increase in AR
 - Closed the feedback loop with customers, and decreased user complaints by 33%
@@ -36,13 +41,7 @@ My day-to-day duties:
 - Manage the performance and career development of team members, working with them to define goals, track progress, and give feedback
 - Hiring manager for the Fraud, Safety and Identity team
 
-I've done it using this: 
-
-Golang, k8s, docker, AWS, MySQL, DynamoDB, aerospike, Kafka, 
-gRPC, and many more. Packed in a beautiful and shiny set of µServices. All of it 
-came with nice tooling to make sure everything works as expected.
-
-### Reply (worldwide) - team and technical leader (2017 - 2019) [reply.io](https://reply.io)
+### (2017 - 2019) Reply (worldwide) - team and technical leader [reply.io](https://reply.io)
 Sales automation tool (SaaS). Early-stage multifunctional developer (one of the founding developers). 
 Went from no profit to profitable business together with the company.
 
@@ -66,19 +65,19 @@ Technical details
 
 --- 
 
-### Flycow (Canada/Singapore) - team leader (2014 - 2017)
+### (2014 - 2017) Flycow (Canada/Singapore) - team leader 
 Building back-office application for gambling portal’s management, including players, 
 bonuses and fraud activity control.
 
 ---
 
-### 20/20 Vision (Netherlands) - software engineer (2012 - 2014)
+### (2012 - 2014) 20/20 Vision (Netherlands) - software engineer 
 Developing of budget2pay management cloud solution that includes a lot of components 
 for building custom business workflows and manage them.
 
 ---
 
-### Aquasoft (Ukraine), Unicorn (Ukraine) — engineer (2010-2012)
+### (2010-2012) Aquasoft (Ukraine), Unicorn (Ukraine) — engineer 
 Developing ERP-related applications for Versata/Trilogy group (Texas, USA). 
 
 ## Education
