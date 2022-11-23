@@ -17,11 +17,11 @@ we operate in very violent conditions.
 
 ##### Some words to describe tech and duties 
 - µServices, distributed systems, async\sync communication, golang, k8s, kafka, MySQL, DynamoDB, Aerospike, 
-gRPC, protobuf, grafana, prometheus, loki, jiraengineering
-- engineering leadership, hiring manager, team mentorship
+gRPC, protobuf, grafana, prometheus, loki, jira, ci\cd, terraform(-grunt), fully automated testing on multiple levels
+- engineering leadership, hiring manager, team mentorship, code reviews, initiative groups, RFCs 
 
 ##### Achievements
-- Managed to retain the engineering team during very turbulent times
+- Managed to retain the engineering team (6 people) during very turbulent times
 - 70% incident rate decrease in Argentina
 - 15% safety perception increase in AR
 - Closed the feedback loop with customers, and decreased user complaints by 33%
@@ -41,26 +41,29 @@ gRPC, protobuf, grafana, prometheus, loki, jiraengineering
 - Manage the performance and career development of team members, working with them to define goals, track progress, and give feedback
 - Hiring manager for the Fraud, Safety and Identity team
 
+--- 
+
 ### (2017 - 2019) Reply (worldwide) - team and technical leader [reply.io](https://reply.io)
 Sales automation tool (SaaS). Early-stage multifunctional developer (one of the founding developers). 
 Went from no profit to profitable business together with the company.
 
-##### What I've done
-- Common architecture design and review
-- Set up of the development process
-- Payment system setting up
-- Monitoring and instrumenting 
-- Hiring management 
-- Team management and coaching
-- Lovely CI/CD process
-
-##### Technical details 
+##### Some words to describe tech and duties 
 - Languages: Golang, C# 
 - Cloud providers: Azure, AWS 
 - Stores: PostgreSQL, DynamoDB, Table Storage, MS SQL, Azure SQL 
 - Container orchestration: k8s + helm 
 - CI/CD: Teamcity, Jenkins within k8s, Octopus deploy 
 - Tools: Grafana, Azure application insights, Grafana loki 
+
+##### My day-to-day duties 
+- Product technical architecture design and review
+- Setting up the process for engineering teams
+- Close collaboration with executives and PMs to bring all the product needs to the engineering teams
+- PoCs, ideas validation, and product testing
+- Catching up on bottlenecks and finding ways to solve them
+- Hiring
+- Team management and coaching
+- Lovely CI/CD process
 
 --- 
 
