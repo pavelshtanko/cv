@@ -1,6 +1,6 @@
 > [shtanko.me](https://shtanko.me) | [me@shtanko.me](mailto:me@shtanko.me) | Amsterdam
 
-##  Shtanko Pavel - Engineering Manager \ Software Engineer 
+##  Shtanko Pavel - Senior Software Engineer \ Engineering Manager
 - 10+ years hands-on engineering experience
 - Serial team and tech leader for the teams of size 3-9 people
 - Indie product developer
